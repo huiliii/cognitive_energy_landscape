@@ -1,0 +1,596 @@
+process,gene
+Myelination,ABCA2
+Myelination,ACSL6
+Myelination,AGXT2L1
+Myelination,AIFM3
+Myelination,ALDH1A1
+Myelination,ALDOC
+Myelination,AMPD3
+Myelination,APOD
+Myelination,ARHGAP26
+Myelination,ASPA
+Myelination,ATPGD1
+Myelination,BCAS1
+Myelination,BCL2L2
+Myelination,BHLHE41
+Myelination,CA11
+Myelination,CA2
+Myelination,CHN1
+Myelination,CMTM5
+Myelination,CNP
+Myelination,CNTNAP1
+Myelination,COBL
+Myelination,CPEB1
+Myelination,CPLX1
+Myelination,CPM
+Myelination,CSRP1
+Myelination,DAAM2
+Myelination,DBNDD2
+Myelination,DGKB
+Myelination,ENPP2
+Myelination,ERBB3
+Myelination,EVI2A
+Myelination,FA2H
+Myelination,FAM102A
+Myelination,FBXO2
+Myelination,FDXACB1
+Myelination,FGF1
+Myelination,FXYD1
+Myelination,GFAP
+Myelination,GNPTG
+Myelination,GPR158
+Myelination,GPR37L1
+Myelination,GRAMD3
+Myelination,GSN
+Myelination,HABP4
+Myelination,HDAC11
+Myelination,HSPA2
+Myelination,HSPB8
+Myelination,IFIT1
+Myelination,KCNJ10
+Myelination,KLK6
+Myelination,LGI3
+Myelination,MAL
+Myelination,MAP3K5
+Myelination,MAP7
+Myelination,MFAP3L
+Myelination,MT3
+Myelination,MYH14
+Myelination,NACC2
+Myelination,NDRG2
+Myelination,NIPAL3
+Myelination,OGDHL
+Myelination,OPALIN
+Myelination,P2RX7
+Myelination,PACSIN1
+Myelination,PADI2
+Myelination,PAQR6
+Myelination,PAQR8
+Myelination,PCTK3
+Myelination,PHF15
+Myelination,PLA2G16
+Myelination,PLEKHB1
+Myelination,PLLP
+Myelination,PLXNB3
+Myelination,PPP4R4
+Myelination,PTGDS
+Myelination,PYGM
+Myelination,RAPGEF4
+Myelination,RTKN
+Myelination,S100B
+Myelination,SCN2B
+Myelination,SEMA4D
+Myelination,SEPT4
+Myelination,SEPT8
+Myelination,SIRPA
+Myelination,SLC25A18
+Myelination,SLCO1A2
+Myelination,TACC1
+Myelination,TEF
+Myelination,TF
+Myelination,TMBIM1
+Myelination,TMEM144
+Myelination,TMEM63A
+Myelination,TPPP
+Myelination,TSPYL2
+Myelination,TTYH2
+Myelination,TUBA4A
+Myelination,UGT8
+Myelination,ZBTB7A
+Myelination,ZCCHC24
+Myelination,ZNF483
+Axon development,AARS
+Axon development,ABCA2
+Axon development,ABCA8
+Axon development,ADAMTS4
+Axon development,ANKRD40
+Axon development,ASPA
+Axon development,ATP10B
+Axon development,ATPGD1
+Axon development,BEST1
+Axon development,C10orf90
+Axon development,C11orf9
+Axon development,C21orf91
+Axon development,CAPN3
+Axon development,CBX7
+Axon development,CD22
+Axon development,CDH19
+Axon development,CERCAM
+Axon development,CLDND1
+Axon development,CLMN
+Axon development,CMTM5
+Axon development,CNDP1
+Axon development,CNP
+Axon development,CPM
+Axon development,CTNNA3
+Axon development,DBNDD2
+Axon development,DEPDC6
+Axon development,DOCK5
+Axon development,ELMO1
+Axon development,ELOVL1
+Axon development,ENDOD1
+Axon development,ENPP2
+Axon development,ERBB3
+Axon development,EVI2A
+Axon development,FA2H
+Axon development,FAM27L
+Axon development,GALNT6
+Axon development,GJB1
+Axon development,GLDN
+Axon development,GPR37
+Axon development,GSN
+Axon development,HAPLN2
+Axon development,HHATL
+Axon development,HHIP
+Axon development,ICOSLG
+Axon development,IPO13
+Axon development,KIF13B
+Axon development,KLK6
+Axon development,LANCL1
+Axon development,LDB3
+Axon development,LGI3
+Axon development,LIPE
+Axon development,MAG
+Axon development,MAL
+Axon development,MAN2A2
+Axon development,MAP6D1
+Axon development,MOG
+Axon development,NFASC
+Axon development,NINJ2
+Axon development,NIPAL3
+Axon development,NPC1
+Axon development,OPALIN
+Axon development,OTUD7B
+Axon development,PADI2
+Axon development,PHF15
+Axon development,PIP4K2A
+Axon development,PLA2G16
+Axon development,PLD1
+Axon development,PRR18
+Axon development,PRRG1
+Axon development,PRUNE2
+Axon development,PXK
+Axon development,QDPR
+Axon development,QSK
+Axon development,RASGRP3
+Axon development,RNF220
+Axon development,RTKN
+Axon development,SEC14L5
+Axon development,SEMA3B
+Axon development,SEMA4D
+Axon development,SEPT4
+Axon development,SGK2
+Axon development,SH3PXD2A
+Axon development,SH3TC2
+Axon development,SLC12A2
+Axon development,SLC31A2
+Axon development,SLC44A1
+Axon development,SLC5A11
+Axon development,SLC6A12
+Axon development,SLCO1A2
+Axon development,SORT1
+Axon development,SPTLC2
+Axon development,SYNJ2
+Axon development,TF
+Axon development,TMEM144
+Axon development,TMEM63A
+Axon development,TRAPPC10
+Axon development,TSR2
+Axon development,TTYH2
+Axon development,UNC84B
+Axon development,USP54
+Dendrite development,ABLIM2
+Dendrite development,ACSL6
+Dendrite development,AGBL4
+Dendrite development,AK5
+Dendrite development,APOD
+Dendrite development,ARHGAP26
+Dendrite development,BCL2L2
+Dendrite development,C8orf46
+Dendrite development,CA11
+Dendrite development,CAMTA2
+Dendrite development,CBX6
+Dendrite development,CHN1
+Dendrite development,CMTM4
+Dendrite development,CNNM1
+Dendrite development,CNTNAP1
+Dendrite development,COBL
+Dendrite development,CREG2
+Dendrite development,CSRP1
+Dendrite development,CTSB
+Dendrite development,CX3CL1
+Dendrite development,CYP46A1
+Dendrite development,DAAM2
+Dendrite development,DGKB
+Dendrite development,DUSP3
+Dendrite development,EPB49
+Dendrite development,ETS2
+Dendrite development,EXTL1
+Dendrite development,FBXL16
+Dendrite development,FBXO2
+Dendrite development,FGF1
+Dendrite development,GPR37L1
+Dendrite development,GRAMD3
+Dendrite development,GRIN2A
+Dendrite development,HABP4
+Dendrite development,HDAC11
+Dendrite development,HLF
+Dendrite development,HSPB8
+Dendrite development,ICAM5
+Dendrite development,IQSEC1
+Dendrite development,ITM2C
+Dendrite development,KCNAB2
+Dendrite development,KSR2
+Dendrite development,LGI3
+Dendrite development,LHPP
+Dendrite development,LOC201229
+Dendrite development,LYNX1
+Dendrite development,MAOB
+Dendrite development,MBP
+Dendrite development,ME1
+Dendrite development,MFAP3L
+Dendrite development,MFSD4
+Dendrite development,MT3
+Dendrite development,NALCN
+Dendrite development,NCEH1
+Dendrite development,NDRG4
+Dendrite development,NRGN
+Dendrite development,P2RX7
+Dendrite development,PACSIN1
+Dendrite development,PADI2
+Dendrite development,PAQR6
+Dendrite development,PINK1
+Dendrite development,PITPNM3
+Dendrite development,PLEKHB1
+Dendrite development,PLLP
+Dendrite development,PMP2
+Dendrite development,PPP2R2C
+Dendrite development,PPP4R4
+Dendrite development,PRKCG
+Dendrite development,PRNP
+Dendrite development,PTPRN
+Dendrite development,RANBP3L
+Dendrite development,RAPGEF4
+Dendrite development,RASGEF1A
+Dendrite development,RASGRF2
+Dendrite development,REPS2
+Dendrite development,RGS4
+Dendrite development,RPH3A
+Dendrite development,SCN2B
+Dendrite development,SEC14L2
+Dendrite development,SGTB
+Dendrite development,SIRPA
+Dendrite development,SKAP2
+Dendrite development,SLC12A5
+Dendrite development,SLC1A2
+Dendrite development,SLC25A18
+Dendrite development,SPARCL1
+Dendrite development,SYN1
+Dendrite development,TACC1
+Dendrite development,TF
+Dendrite development,THY1
+Dendrite development,TMEM38A
+Dendrite development,TOM1L2
+Dendrite development,TPPP
+Dendrite development,TRPM2
+Dendrite development,TSPYL2
+Dendrite development,TUBA4A
+Dendrite development,TUBG2
+Dendrite development,ZMAT3
+Neuron differentiation,ACVR2A
+Neuron differentiation,AP3M1
+Neuron differentiation,ARRDC3
+Neuron differentiation,BCL9
+Neuron differentiation,C20orf112
+Neuron differentiation,C2orf44
+Neuron differentiation,CAPRIN1
+Neuron differentiation,CDC42EP3
+Neuron differentiation,CDH2
+Neuron differentiation,CEP170
+Neuron differentiation,CGGBP1
+Neuron differentiation,CLASP1
+Neuron differentiation,CREB1
+Neuron differentiation,CRMP1
+Neuron differentiation,CTDSPL2
+Neuron differentiation,DAAM1
+Neuron differentiation,DCX
+Neuron differentiation,DHX57
+Neuron differentiation,DPYSL3
+Neuron differentiation,DYNC1I2
+Neuron differentiation,EIF3L
+Neuron differentiation,EIF4G2
+Neuron differentiation,ELOVL6
+Neuron differentiation,EPC1
+Neuron differentiation,EPHB2
+Neuron differentiation,FAM117B
+Neuron differentiation,FAM48A
+Neuron differentiation,FUBP1
+Neuron differentiation,GFPT1
+Neuron differentiation,GSTA4
+Neuron differentiation,HDAC2
+Neuron differentiation,HN1
+Neuron differentiation,HNRNPAB
+Neuron differentiation,IDH1
+Neuron differentiation,IGSF3
+Neuron differentiation,KDM1
+Neuron differentiation,KDM5B
+Neuron differentiation,KHDRBS1
+Neuron differentiation,KLF7
+Neuron differentiation,LASS6
+Neuron differentiation,MFAP3
+Neuron differentiation,MLLT3
+Neuron differentiation,MYCN
+Neuron differentiation,NKAIN1
+Neuron differentiation,NKIRAS2
+Neuron differentiation,NRAS
+Neuron differentiation,NT5DC2
+Neuron differentiation,NUP153
+Neuron differentiation,ODC1
+Neuron differentiation,PAK2
+Neuron differentiation,PANK3
+Neuron differentiation,PANX1
+Neuron differentiation,PAPOLG
+Neuron differentiation,PBRM1
+Neuron differentiation,PCGF3
+Neuron differentiation,PGD
+Neuron differentiation,POLR2B
+Neuron differentiation,PPP2R5E
+Neuron differentiation,PRR3
+Neuron differentiation,PRRC1
+Neuron differentiation,PTBP2
+Neuron differentiation,PUM1
+Neuron differentiation,PYGO1
+Neuron differentiation,RFX7
+Neuron differentiation,RNF2
+Neuron differentiation,RNF38
+Neuron differentiation,RSPRY1
+Neuron differentiation,SCYL2
+Neuron differentiation,SEC31A
+Neuron differentiation,SF3B3
+Neuron differentiation,SLC39A6
+Neuron differentiation,SMAP1
+Neuron differentiation,SMARCAD1
+Neuron differentiation,SOX11
+Neuron differentiation,SP4
+Neuron differentiation,SPAST
+Neuron differentiation,SQLE
+Neuron differentiation,SRPK1
+Neuron differentiation,ST8SIA2
+Neuron differentiation,TAF2
+Neuron differentiation,TEX10
+Neuron differentiation,TNPO3
+Neuron differentiation,TOP2B
+Neuron differentiation,TOPBP1
+Neuron differentiation,TRIM24
+Neuron differentiation,UBE2J1
+Neuron differentiation,UGGT1
+Neuron differentiation,WDR82
+Neuron differentiation,WNK3
+Neuron differentiation,XPO5
+Neuron differentiation,XPR1
+Neuron differentiation,ZBTB8A
+Neuron differentiation,ZC4H2
+Neuron differentiation,ZDHHC15
+Neuron differentiation,ZFP30
+Neuron differentiation,ZNF280C
+Neuron differentiation,ZNF445
+Neuron differentiation,ZNF512
+Neuron differentiation,ZWILCH
+Neuron migration,ADNP
+Neuron migration,AFAP1
+Neuron migration,ANKRD50
+Neuron migration,ARL10
+Neuron migration,BACH2
+Neuron migration,BZW2
+Neuron migration,C1orf187
+Neuron migration,C6orf124
+Neuron migration,C6orf134
+Neuron migration,CASK
+Neuron migration,CCDC112
+Neuron migration,CD24
+Neuron migration,CDC42EP3
+Neuron migration,CRMP1
+Neuron migration,CTTNBP2NL
+Neuron migration,DAAM1
+Neuron migration,DBN1
+Neuron migration,DCAF12
+Neuron migration,DCHS1
+Neuron migration,DDAH2
+Neuron migration,DLG5
+Neuron migration,DOK4
+Neuron migration,DPYSL3
+Neuron migration,DPYSL5
+Neuron migration,EPHB2
+Neuron migration,F2R
+Neuron migration,FAM117B
+Neuron migration,FAT4
+Neuron migration,FBN3
+Neuron migration,FBXO30
+Neuron migration,FGD1
+Neuron migration,FNBP1L
+Neuron migration,GPR161
+Neuron migration,HDAC2
+Neuron migration,HIST1H3I
+Neuron migration,HN1
+Neuron migration,IDH1
+Neuron migration,IGSF3
+Neuron migration,IL17RD
+Neuron migration,INTS7
+Neuron migration,ISLR2
+Neuron migration,KDM1
+Neuron migration,KDM5B
+Neuron migration,KIAA0922
+Neuron migration,KIRREL
+Neuron migration,KLF7
+Neuron migration,LRCH2
+Neuron migration,LRRC3
+Neuron migration,LRRC55
+Neuron migration,MEX3B
+Neuron migration,MLLT3
+Neuron migration,MPZL1
+Neuron migration,MYCN
+Neuron migration,N4BP2
+Neuron migration,NKAIN1
+Neuron migration,NKIRAS2
+Neuron migration,NNAT
+Neuron migration,PAFAH1B3
+Neuron migration,PAK2
+Neuron migration,PANX1
+Neuron migration,PBRM1
+Neuron migration,PLEKHG2
+Neuron migration,PRRC1
+Neuron migration,PTPRO
+Neuron migration,RCBTB2
+Neuron migration,RND3
+Neuron migration,ROBO1
+Neuron migration,RSPRY1
+Neuron migration,SLC44A5
+Neuron migration,SLCO5A1
+Neuron migration,SOX11
+Neuron migration,SOX12
+Neuron migration,SOX4
+Neuron migration,SRGAP1
+Neuron migration,ST8SIA2
+Neuron migration,TMSB15A
+Neuron migration,TRIM24
+Neuron migration,TSKU
+Neuron migration,TTC28
+Neuron migration,TUBB
+Neuron migration,TUBB2B
+Neuron migration,USP49
+Neuron migration,VASH2
+Neuron migration,VAV2
+Neuron migration,WHSC1
+Neuron migration,WNK3
+Neuron migration,XPR1
+Neuron migration,ZBED4
+Neuron migration,ZBTB8A
+Neuron migration,ZDHHC15
+Neuron migration,ZNF280C
+Neuron migration,ZNF300
+Neuron migration,ZNF445
+Neuron migration,ZNF616
+Neuron migration,ZNF642
+Neuron migration,ZNF678
+Neuron migration,ZNF711
+Neuron migration,ZSCAN2
+Neuron migration,ZWILCH
+Synapse development,ABLIM2
+Synapse development,ACSL6
+Synapse development,ADAM11
+Synapse development,ADAP1
+Synapse development,AGT
+Synapse development,ALDOC
+Synapse development,APOD
+Synapse development,ASPHD1
+Synapse development,ATP1B1
+Synapse development,BSN
+Synapse development,C19orf66
+Synapse development,C8orf46
+Synapse development,CA11
+Synapse development,CAMK2A
+Synapse development,CAMTA2
+Synapse development,CASKIN1
+Synapse development,CBX6
+Synapse development,CEND1
+Synapse development,CLSTN1
+Synapse development,CNTNAP1
+Synapse development,COBL
+Synapse development,CPLX1
+Synapse development,CTSB
+Synapse development,CYP46A1
+Synapse development,DCAF6
+Synapse development,DNM1
+Synapse development,DTNA
+Synapse development,EPB49
+Synapse development,FBXL16
+Synapse development,FLJ33996
+Synapse development,FMNL1
+Synapse development,GABRA1
+Synapse development,GARNL4
+Synapse development,GNG3
+Synapse development,GPR155
+Synapse development,GPR162
+Synapse development,GPR37L1
+Synapse development,GPRASP1
+Synapse development,GRIN2A
+Synapse development,HLF
+Synapse development,HPCAL4
+Synapse development,KCNMA1
+Synapse development,KIAA0284
+Synapse development,KIAA0513
+Synapse development,KNDC1
+Synapse development,LYNX1
+Synapse development,MAP1A
+Synapse development,MAP3K5
+Synapse development,MBP
+Synapse development,MFSD4
+Synapse development,MICAL2
+Synapse development,MINK1
+Synapse development,NALCN
+Synapse development,NCEH1
+Synapse development,NDRG4
+Synapse development,NPTN
+Synapse development,PACSIN1
+Synapse development,PANX2
+Synapse development,PHYHIP
+Synapse development,PINK1
+Synapse development,PITPNM2
+Synapse development,PITPNM3
+Synapse development,PPP2R2C
+Synapse development,PRKCG
+Synapse development,PRNP
+Synapse development,PRRT1
+Synapse development,PTPRN
+Synapse development,RAPGEF4
+Synapse development,RAPGEFL1
+Synapse development,RASGEF1A
+Synapse development,RASGRF1
+Synapse development,REPS2
+Synapse development,RPH3A
+Synapse development,SCN2B
+Synapse development,SGTB
+Synapse development,SHANK1
+Synapse development,SHISA4
+Synapse development,SIRPA
+Synapse development,SLC12A5
+Synapse development,SLC4A10
+Synapse development,SPARCL1
+Synapse development,SPRYD3
+Synapse development,ST6GALNAC6
+Synapse development,STX1B
+Synapse development,SV2B
+Synapse development,SYN2
+Synapse development,SYNGR1
+Synapse development,THY1
+Synapse development,TMEM38A
+Synapse development,TMEM59L
+Synapse development,TOM1L2
+Synapse development,TPPP
+Synapse development,TRPM2
+Synapse development,TSPAN7
+Synapse development,TUBA4A
+Synapse development,TUBG2
+Synapse development,UNC80
+Synapse development,VAMP2
+Synapse development,YWHAH
